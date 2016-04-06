@@ -1,0 +1,19 @@
+{
+  "name": "statuscode_check",
+  "version": "1.0.0",
+  "description": "status code check",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mitsu-ki/status-code-monitor.git"
+  },
+  "author": "mitsu-ki",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "superagent": "^1.8.3"
+  }
+}
